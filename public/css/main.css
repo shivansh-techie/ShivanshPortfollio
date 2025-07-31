@@ -12422,7 +12422,7 @@ body::-webkit-scrollbar {
 }
 
 .bio_text_cont {
-    background: url(../../public/media/bio_bg.16bb0debbbd81ee6e81c.png);
+    background: url(../media/bio_bg.16bb0debbbd81ee6e81c.png);
     background-size: cover;
     overflow-x: hidden
 }
@@ -12646,7 +12646,7 @@ body::-webkit-scrollbar {
 }
 
 .abtme_bg {
-    background: url(../../public/media/skills_heading.de3f02f60566b88cf1d7.jpg);
+    background: url(../media/skills_heading.de3f02f60566b88cf1d7.jpg);
     background-attachment: fixed;
     background-size: cover
 }
@@ -12857,7 +12857,7 @@ body::-webkit-scrollbar {
 }
 
 .mq_cont {
-    background: url(../../public/media/marquee_bg.21aba2ace520dcf7c680.jpg);
+    background: url(../media/marquee_bg.21aba2ace520dcf7c680.jpg);
     background-size: cover;
     height: 320px
 }
@@ -12939,7 +12939,7 @@ body::-webkit-scrollbar {
 }
 
 .mdl2 {
-    background: url(../../public/media/mdl_bg2.00d253d85db32418432c.jpg);
+    background: url(../media/mdl_bg2.00d253d85db32418432c.jpg);
     background-size: cover;
     color: #fff
 }
@@ -13165,7 +13165,7 @@ body::-webkit-scrollbar {
 }
 
 .project_container {
-    background: url(../../public/media/project_bg1.8d4dc9d9745be9b54ef8.png);
+    background: url(../media/project_bg1.8d4dc9d9745be9b54ef8.png);
     background-size: cover;
     overflow-x: hidden
 }

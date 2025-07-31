@@ -20020,7 +20020,7 @@
             })
         }
           , c = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/logo.0243604a11c9c4893a3d.png`} alt="Logo" />
+          <img src={`${process.env.PUBLIC_URL}../media/logo.0243604a11c9c4893a3d.png`} alt="Logo" />
         function f() {
             return (0,
             l.jsxs)(l.Fragment, {
@@ -20226,7 +20226,7 @@
                 })
             })
         }
-          , p = n.p + <img src={process.env.PUBLIC_URL + "./media/float_img1.7c9170cf00f928226f08.png"} alt="Floating Image" />
+          , p = n.p + <img src={process.env.PUBLIC_URL + "../media/float_img1.7c9170cf00f928226f08.png"} alt="Floating Image" />
         var h = function() {
             return (0,
             l.jsx)(l.Fragment, {
@@ -20345,7 +20345,7 @@
                 })
             })
         }
-          , m = n.p + <img src={`${process.env.PUBLIC_URL}./media/bio_img.520b15f844f98b3cf841.png`}alt='Bio Image' />
+          , m = n.p + <img src={`${process.env.PUBLIC_URL}../media/bio_img.520b15f844f98b3cf841.png`}alt='Bio Image' />
         var g = function() {
             return (0,
             l.jsx)(l.Fragment, {
@@ -21118,27 +21118,27 @@
             })
         }
           , x = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/html.0b1f8c7d2e3f4a5b6c7d.png`} alt="HTML" />
+          <img src={`${process.env.PUBLIC_URL}../media/html.0b1f8c7d2e3f4a5b6c7d.png`} alt="HTML" />
           , w = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/css.1a57e67ac1fd2ea84d64.png`} alt="CSS" />
+          <img src={`${process.env.PUBLIC_URL}../media/css.1a57e67ac1fd2ea84d64.png`} alt="CSS" />
           , _ = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/bootstrap.b74e54d4897791a51840.png`} alt="Boot Strap" />
+          <img src={`${process.env.PUBLIC_URL}../media/bootstrap.b74e54d4897791a51840.png`} alt="Boot Strap" />
           , k = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/ja.c82f51737aaa6831750c.png`} alt="JAVA" />
+          <img src={`${process.env.PUBLIC_URL}../media/ja.c82f51737aaa6831750c.png`} alt="JAVA" />
           , E = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/sql.4676ad983d6bd3e9fac9.png`} alt="SQL" />
+          <img src={`${process.env.PUBLIC_URL}../media/sql.4676ad983d6bd3e9fac9.png`} alt="SQL" />
           , S = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/react.efccb116e443bbf6ffa6.png`} alt="REACT" />
+          <img src={`${process.env.PUBLIC_URL}../media/react.efccb116e443bbf6ffa6.png`} alt="REACT" />
           , j = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/git.82b028392283d557657f.png`} alt="GIT" />
+          <img src={`${process.env.PUBLIC_URL}../media/git.82b028392283d557657f.png`} alt="GIT" />
           , C = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/node.1041f6a637f738116386.png`} alt="NODE" />
+          <img src={`${process.env.PUBLIC_URL}../media/node.1041f6a637f738116386.png`} alt="NODE" />
           , T = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/mongo.bb8f9ed6d8d49da338c8.png`} alt="MONGO DB" />
+          <img src={`${process.env.PUBLIC_URL}../media/mongo.bb8f9ed6d8d49da338c8.png`} alt="MONGO DB" />
           , A = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/java.6c1a3b5f7e2d535bff5b.png`} alt="JAVA" />
+          <img src={`${process.env.PUBLIC_URL}../media/java.6c1a3b5f7e2d535bff5b.png`} alt="JAVA" />
           , N = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/python.212de8d7278260fca353.png`} alt="Python" />
+          <img src={`${process.env.PUBLIC_URL}../media/python.212de8d7278260fca353.png`} alt="Python" />
         var O = function() {
             return (0,
             l.jsx)(l.Fragment, {
@@ -21361,11 +21361,11 @@
             })
         }
           , D = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/p1.c8b15b32c3a69f11e489.png`} alt="P1" />
+          <img src={`${process.env.PUBLIC_URL}../media/p1.c8b15b32c3a69f11e489.png`} alt="P1" />
           , I = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/p2.c1961ef2d5bd685d156e.png`} alt="P2" />
+          <img src={`${process.env.PUBLIC_URL}../media/p2.c1961ef2d5bd685d156e.png`} alt="P2" />
           , M = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/p3.1be0f187e52fc4a041b7.png`} alt="P3" />
+          <img src={`${process.env.PUBLIC_URL}../media/p3.1be0f187e52fc4a041b7.png`} alt="P3" />
         var R = function() {
             return (0,
             l.jsx)(l.Fragment, {
@@ -21768,7 +21768,7 @@
             })
         }
           , B = n.p + 
-          <img src={`${process.env.PUBLIC_URL}./media/f_logo.a3d4181e307b7a5d9842.png`} alt="F" />
+          <img src={`${process.env.PUBLIC_URL}../media/f_logo.a3d4181e307b7a5d9842.png`} alt="F" />
         var z = function() {
             return (0,
             l.jsxs)(l.Fragment, {
@@ -23527,7 +23527,7 @@
         ));
         var Hn = n.p + 
          <img 
-         src={`${process.env.PUBLIC_URL}./media/floating_contact.33436ad5f0d9d8b68087.png`} 
+         src={`${process.env.PUBLIC_URL}../media/floating_contact.33436ad5f0d9d8b68087.png`} 
          alt="Floating Contact"
           />
         var Un = function() {
